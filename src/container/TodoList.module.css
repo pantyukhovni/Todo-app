@@ -1,0 +1,11 @@
+.button {
+  cursor: pointer;
+}
+.firstWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.completed {
+  text-decoration: line-through;
+}
